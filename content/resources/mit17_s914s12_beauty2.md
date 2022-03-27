@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9f62199d-67cb-5e70-d4a8-6310fb34afe5
 resourcetype: Document
 title: '17.S914 Reflection Paper: Perception of Beauty'
 uid: 32f7f9bd-c1ad-609c-ab7c-9e7c63410212

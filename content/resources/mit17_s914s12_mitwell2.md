@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9f62199d-67cb-5e70-d4a8-6310fb34afe5
 resourcetype: Document
 title: '17.S914 Reflection Paper: MIT - Wellesley Social Dynamics'
 uid: 50a6915f-30c6-e0ae-f42b-07c03d06a12a

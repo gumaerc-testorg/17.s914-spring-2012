@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9f62199d-67cb-5e70-d4a8-6310fb34afe5
 resourcetype: Document
 title: '17.S914 Reflection Paper: Prostitution'
 uid: 25fd8318-7d00-ce72-69db-62b815b33a06
