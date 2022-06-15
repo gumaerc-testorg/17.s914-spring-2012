@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information about Perceptions of beauty.
-file: /media/courses/17-s914-conversations-you-cant-have-on-campus-race-ethnicity-gender-and-identity-spring-2012/32f7f9bdc1ad609cab7c9e7c63410212_MIT17_S914S12_beauty2.pdf
+file: /courses/17-s914-conversations-you-cant-have-on-campus-race-ethnicity-gender-and-identity-spring-2012/32f7f9bdc1ad609cab7c9e7c63410212_MIT17_S914S12_beauty2.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Document
 title: '17.S914 Reflection Paper: Perception of Beauty'
 uid: 32f7f9bd-c1ad-609c-ab7c-9e7c63410212
 ---
+This file contains information about Perceptions of beauty.
+
