@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This calendar section provides the schedule of seminar topics for the
+  course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 8144aa23-6f2f-ccc0-1fbf-8809d73f6ebb
 ---
