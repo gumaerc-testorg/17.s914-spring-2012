@@ -5,6 +5,7 @@ file: /courses/17-s914-conversations-you-cant-have-on-campus-race-ethnicity-gend
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '17.S914 Reflection Paper: Perceptions of Beauty'
 uid: b476f3bf-f1b0-da81-b05e-13087c30d47f
 ---
 This file contains information about Perceptions of beauty.
-

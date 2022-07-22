@@ -5,6 +5,7 @@ file: /courses/17-s914-conversations-you-cant-have-on-campus-race-ethnicity-gend
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '17.S914 Reflection Paper: Reflections on Discussions from 3/14/12 (Evolu
 uid: 4ff0f76e-ad2b-eb7b-5ea8-a744d81c5589
 ---
 This file contains information about Evolution and creationism.
-

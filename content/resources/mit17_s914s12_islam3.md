@@ -5,6 +5,7 @@ file: /courses/17-s914-conversations-you-cant-have-on-campus-race-ethnicity-gend
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '17.S914 Reflection Paper: Islamophobia'
 uid: e6320623-f8e2-452b-5160-3d5685ec3c1d
 ---
 This file contains information about Islamophobia.
-
