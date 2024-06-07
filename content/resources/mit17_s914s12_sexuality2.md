@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information about Sexuality.
 file: /courses/17-s914-conversations-you-cant-have-on-campus-race-ethnicity-gender-and-identity-spring-2012/5c9c427bfe3b6c17aa2f384002d006a5_MIT17_S914S12_sexuality2.pdf
+file_size: 148110
 file_type: application/pdf
 learning_resource_types:
 - Assignments
