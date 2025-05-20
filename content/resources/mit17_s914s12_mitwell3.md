@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information about Relationship between MIT and Wellesley
   students.
-file: /ol-ocw-studio-app/courses/17-s914-conversations-you-cant-have-on-campus-race-ethnicity-gender-and-identity-spring-2012/9ec6a8006743d5dad16aa34c3144799c_MIT17_S914S12_mitwell3.pdf
+file: /courses/17-s914-conversations-you-cant-have-on-campus-race-ethnicity-gender-and-identity-spring-2012/9ec6a8006743d5dad16aa34c3144799c_MIT17_S914S12_mitwell3.pdf
 file_size: 92296
 file_type: application/pdf
 learning_resource_types:

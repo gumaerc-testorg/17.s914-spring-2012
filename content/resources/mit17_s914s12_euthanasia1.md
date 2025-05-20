@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information about Euthanasia.
-file: /ol-ocw-studio-app/courses/17-s914-conversations-you-cant-have-on-campus-race-ethnicity-gender-and-identity-spring-2012/14665181b0344dae14e13e0cca5f5a0c_MIT17_S914S12_euthanasia1.pdf
+file: /courses/17-s914-conversations-you-cant-have-on-campus-race-ethnicity-gender-and-identity-spring-2012/14665181b0344dae14e13e0cca5f5a0c_MIT17_S914S12_euthanasia1.pdf
 file_size: 231214
 file_type: application/pdf
 learning_resource_types:
