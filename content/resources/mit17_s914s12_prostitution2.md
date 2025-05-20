@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information about De-Criminalization of prostitution.
-file: /ol-ocw-studio-app/courses/17-s914-conversations-you-cant-have-on-campus-race-ethnicity-gender-and-identity-spring-2012/ae1a81127db9fd4df75d92343a3257aa_MIT17_S914S12_prostitution2.pdf
+file: /courses/17-s914-conversations-you-cant-have-on-campus-race-ethnicity-gender-and-identity-spring-2012/ae1a81127db9fd4df75d92343a3257aa_MIT17_S914S12_prostitution2.pdf
 file_size: 300025
 file_type: application/pdf
 learning_resource_types:
