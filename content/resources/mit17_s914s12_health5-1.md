@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information about U.S. health care reform.
-file: /ol-ocw-studio-app/courses/17-s914-conversations-you-cant-have-on-campus-race-ethnicity-gender-and-identity-spring-2012/8159b81fbb23fbd0672d2e4f685bcadc_MIT17_S914S12_health5.1.pdf
+file: /courses/17-s914-conversations-you-cant-have-on-campus-race-ethnicity-gender-and-identity-spring-2012/8159b81fbb23fbd0672d2e4f685bcadc_MIT17_S914S12_health5.1.pdf
 file_size: 151373
 file_type: application/pdf
 learning_resource_types:
