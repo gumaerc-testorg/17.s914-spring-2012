@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information about Islamophobia.
-file: /courses/17-s914-conversations-you-cant-have-on-campus-race-ethnicity-gender-and-identity-spring-2012/e6320623f8e2452b51603d5685ec3c1d_MIT17_S914S12_islam3.pdf
+file: /ol-ocw-studio-app/courses/17-s914-conversations-you-cant-have-on-campus-race-ethnicity-gender-and-identity-spring-2012/e6320623f8e2452b51603d5685ec3c1d_MIT17_S914S12_islam3.pdf
 file_size: 126091
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information about The meaning of life.
-file: /courses/17-s914-conversations-you-cant-have-on-campus-race-ethnicity-gender-and-identity-spring-2012/f5dfb18609abfb26a96e9fb000516b23_MIT17_S914S12_life2.pdf
+file: /ol-ocw-studio-app/courses/17-s914-conversations-you-cant-have-on-campus-race-ethnicity-gender-and-identity-spring-2012/f5dfb18609abfb26a96e9fb000516b23_MIT17_S914S12_life2.pdf
 file_size: 230133
 file_type: application/pdf
 learning_resource_types:
