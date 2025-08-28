@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information about Evolution and creationism.
-file: /courses/17-s914-conversations-you-cant-have-on-campus-race-ethnicity-gender-and-identity-spring-2012/4ff0f76ead2beb7b5ea8a744d81c5589_MIT17_S914S12_evol4.pdf
+file: /ol-ocw-studio-app/courses/17-s914-conversations-you-cant-have-on-campus-race-ethnicity-gender-and-identity-spring-2012/4ff0f76ead2beb7b5ea8a744d81c5589_MIT17_S914S12_evol4.pdf
 file_size: 86730
 file_type: application/pdf
 learning_resource_types:
